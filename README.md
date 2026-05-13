@@ -12,8 +12,8 @@ This repository contains solutions to competitive programming problems, intervie
 
 ## 🛠️ Languages Used
 
-* **Primary:** Javascript, HTML, CSS 
-* **Tools:** VS Code, Git, LeetCode, HackerRank
+* **Primary:** Javascript, HTML, CSS, React, C++
+* **Tools:** VS Code, Git, LeetCode, HackerRank, Arduino UNO
 
 ---
 
