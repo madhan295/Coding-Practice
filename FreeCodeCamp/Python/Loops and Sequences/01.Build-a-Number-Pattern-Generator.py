@@ -10,3 +10,5 @@ def number_pattern(n):
         numbers.append(str(i))
         
     return " ".join(numbers)
+
+number_pattern(10)
